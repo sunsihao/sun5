@@ -29,8 +29,5 @@ function double_to_one(collection) {
 	return arr;
 }
 
-console.log(double_to_one(arr));
-
-
 module.exports = double_to_one;
 
